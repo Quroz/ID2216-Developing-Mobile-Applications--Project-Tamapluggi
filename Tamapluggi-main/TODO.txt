@@ -1,0 +1,19 @@
+TODO LIST: 
+
+1) I filen SetSchedule: 
+    1.1) Fixa input så att den tar emot siffror. Vi har lagt så att den tar
+    en textbox istället
+    2.2) Fixa så att det bara är en ruta för att skriva tiden i set schedule, 
+    antingen att man skriver min:sek, att det bara går att sätta hela min eller
+     att ex 0.5 min ger 30 sek
+
+2) Skapa kategorier som håller olika listor, gör så att man kan skapa nya kategorier som visas med searchviewform 
+och kort med unika ID, implementera att de olika kategorierna kan ändras, IE, ta bort specifika kort i en kategori.
+
+3) Gör "Are you sure" prompt till user när man trycker på restart snyggare
+
+5) Gör så att popup när pausen i study är slut inte dyker upp två gånger
+
+8) Lägg till en ljudsignal när timern för study och paus tar slut
+
+9) Fixa en default router. Ifall jag skriver /Rakin på localhost då kommer den krascha.
